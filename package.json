@@ -1,0 +1,13 @@
+{
+  "name": "Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.16",
+    "typescript": "^4.9.5"
+  }
+}
