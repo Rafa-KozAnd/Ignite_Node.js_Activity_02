@@ -1,0 +1,3 @@
+class SESMailProvider {}
+
+export { SESMailProvider };
